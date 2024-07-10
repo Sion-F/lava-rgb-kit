@@ -33,11 +33,11 @@
 ## PPU插座 
 PPU的插座使用裸针直接焊接在电路板上。优点是可以省下座子的高度。  
 东西长这样  
-![img](/img/BarePin.jpg)  
+![img](/img/BarePin.png)  
 焊接的效果如图  
 ![image](/img/board.jpg)  
 
 ## BOM中未体现的
 FC上拆掉PPU后安装的座子，以及Lava Kit板上的排针。许多人喜欢用圆孔IC座+圆孔针，也算一个方案。我更喜欢用塑高7mm的圆孔排母。这种排母可以插普通2.54mm排针，因此你可以买3U镀金的，看起来更亮一些，组合起来的高度恰好足够给CPU也装个圆孔座子。  
 (PPU使用裸针省下的高度在这里浪费掉了)  
-![img](/img/7mmFemaleHeader.jpg)  
+![img](/img/7mmFemaleHeader.png)  
